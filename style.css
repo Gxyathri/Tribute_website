@@ -1,0 +1,101 @@
+body {
+    background-color: #D0C5D7;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  .button{
+    
+    margin-bottom: 30px;
+    margin-left: 670px;
+    
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #876294;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #452341;
+  }
+  .about-section {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .about-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-section p {
+    margin-bottom: 10px;
+  }
+  .achievements-section {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .achievements-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .achievements-section p {
+    margin-bottom: 10px;
+  }
+  .recent {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .recent h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .recent p {
+    margin-bottom: 10px;
+  }
+  .upcoming {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .upcoming h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .upcoming p {
+    margin-bottom: 10px;
+  }
